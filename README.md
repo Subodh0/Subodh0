@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MERN Tech Stacks
 - 💬 Ask me about any full stack MERN questions
 - 📫 How to reach me: 
-                      Linkedin - https://www.linkedin.com/in/subodhkumar-ray/
+                      Linkedin - https://www.linkedin.com/in/subodhkumar-ray/ <br>
                       Leetcode - https://leetcode.com/Subodh7/
